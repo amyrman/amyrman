@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help with:
   - At the moment, managing covid. At least days seem to be getting brighter both literally and figuratively! 🤞
 - 💬 Ask me about:
-  - Whatever you like and we'll take it from there! I'm curious by nature. For example, I know some things about social work (psychology, sociology).
+  - Whatever you like and we'll take it from there! I'm curious by nature, and I love to help out! For example, I know some things about social work (psychology, sociology).
   - Programming-wise? Beginner Javascript, Java, HTML, CSS. And, did I say I like to structure stuff!?
 - 📫 How to reach me:
   - amyhrman [at] google mail
