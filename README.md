@@ -9,8 +9,6 @@
   - To code things on the web, mainly with HTML, CSS, Javascript and Java.
 - 👯 I’m looking to collaborate on:
   - Improving society.
-- 🤔 I’m looking for help with:
-  - At the moment, managing covid. At least days seem to be getting brighter both literally and figuratively! 🤞
 - 💬 Ask me about:
   - Whatever you like and we'll take it from there! I'm curious by nature, and I love to help out! For example, I know some things about social work (e.g. psychology, sociology).
   - Programming-wise? Beginner Javascript, Java, HTML, CSS.
