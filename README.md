@@ -14,9 +14,3 @@
   - Programming-wise? Beginner Javascript, Java, HTML, CSS.
 - 📫 How to reach me:
   - amyhrman [at] google mail
-- 😄 Pronouns:
-  - Someone
-  - Sometime
-  - Somewhere
-- ⚡ Fun fact:
-  - I can make whistling noises in like five different ways! 😙🎶🥳
