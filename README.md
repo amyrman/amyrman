@@ -1,4 +1,4 @@
-### Hey you! 👋😄
+### 👋😄
 
 - 🔭 I’m currently working on:
   - Finishing my education in web and systems development @ Lernia Piteå (by June 2023).
